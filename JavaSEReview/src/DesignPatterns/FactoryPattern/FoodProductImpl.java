@@ -1,5 +1,8 @@
 package DesignPatterns.FactoryPattern;
 
+/**
+ * 食品工厂实现类
+ */
 public class FoodProductImpl implements ProductInterFace{
     @Override
     public void show() {
